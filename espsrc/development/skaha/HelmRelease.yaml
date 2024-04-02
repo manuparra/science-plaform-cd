@@ -49,8 +49,6 @@ spec:
         homeDir: "/arc/home"
         defautlQuotaGB: "10"
  
-        registryHosts: "images.canfar.net"
- 
         # Uncomment to debug.  Requires options above as well as service port exposure below.
         # extraPorts:
     
