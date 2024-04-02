@@ -7,7 +7,7 @@ spec:
   interval: 5m
   chart:
     spec:
-      chart: storage-ui
+      chart: storageui
       sourceRef:
         kind: HelmRepository
         name: science-platform
