@@ -10,7 +10,7 @@ spec:
       chart: storageui
       sourceRef:
         kind: HelmRepository
-        name: science-platform
+        name: science-platform-client
         namespace: default
       interval: 1m
   values:
