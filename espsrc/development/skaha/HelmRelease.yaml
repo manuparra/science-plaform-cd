@@ -29,14 +29,6 @@ spec:
         # The Resource ID of the Service that contains the Posix Mapping information
         posixMapperResourceID: "ivo://espsrc.iaa.csic.es/posix-mapper"
         registryURL: https://spsrc27.iaa.csic.es/reg
-        # posixMapperResourceID: "ivo://cadc.nrc.ca/gms"
- 
-        # Optionally set the DEBUG port.
-        # extraEnv:
-        # - name: CATALINA_OPTS
-        #   value: "-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=0.0.0.0:5555"
-        # - name: JAVA_OPTS
-        #   value: "-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=0.0.0.0:5555"
  
         # Resources provided to the Skaha service.
         resources:
