@@ -21,7 +21,7 @@ spec:
     skaha:
       namespace: skaha-system
     deployment:
-      hostname: spsrc-jupyter.iaa.csic.es # Change this!
+      hostname: spsrc25.iaa.csic.es # Change this!
       sciencePortal:
         image: images.opencadc.org/platform/science-portal:0.2.1
         imagePullPolicy: Always
