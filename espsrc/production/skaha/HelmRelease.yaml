@@ -8,6 +8,7 @@ spec:
   chart:
     spec:
       chart: skaha
+      version: "0.4.2"
       sourceRef:
         kind: HelmRepository
         name: science-platform
