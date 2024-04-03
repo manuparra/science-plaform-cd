@@ -18,7 +18,7 @@ spec:
       hostname: dev.spsrc25.iaa.csic.es # Change this!
       skaha:
         # Space delimited list of allowed Image Registry hosts.  These hosts should match the hosts in the User Session images.
-        registryHosts: "images.canfar.net"
+        registryHosts: "spsrc26.iaa.csic.es"
  
         # The group name to verify users against for permission to use the Science Platform.
         usersGroup: "ivo://skao.int/gms?prototyping-groups/mini-src/platform-users"
