@@ -1,5 +1,5 @@
 # Science Portal CD
-CANFAR Science Platform Continuous Deployment with FluxCD
+[CANFAR](https://www.canfar.net/en/) Science Platform Continuous Deployment with FluxCD
 
 ## Bootstrapping a new Flux CD agent on a Kubernetes Cluster
 
