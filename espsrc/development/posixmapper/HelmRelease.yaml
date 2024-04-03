@@ -8,6 +8,7 @@ spec:
   chart:
     spec:
       chart: posixmapper
+      version: "0.1.8"
       sourceRef:
         kind: HelmRepository
         name: science-platform
