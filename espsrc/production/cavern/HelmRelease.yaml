@@ -8,6 +8,7 @@ spec:
   chart:
     spec:
       chart: cavern
+      version: "0.3.1"
       sourceRef:
         kind: HelmRepository
         name: science-platform
