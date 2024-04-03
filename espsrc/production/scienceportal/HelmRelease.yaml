@@ -8,6 +8,7 @@ spec:
   chart:
     spec:
       chart: scienceportal
+      version: "0.2.3"
       sourceRef:
         kind: HelmRepository
         name: science-platform
