@@ -15,7 +15,7 @@ spec:
       interval: 1m
   values:
     deployment:
-      hostname: spsrc25.iaa.csic.es # Change this!
+      hostname: dev.spsrc25.iaa.csic.es # Change this!
       skaha:
         # Space delimited list of allowed Image Registry hosts.  These hosts should match the hosts in the User Session images.
         registryHosts: "images.canfar.net"

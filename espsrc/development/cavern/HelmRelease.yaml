@@ -16,7 +16,7 @@ spec:
   values:
     # Skaha web service deployment
     deployment:
-      hostname: spsrc25.iaa.csic.es
+      hostname: dev.spsrc25.iaa.csic.es
       cavern:
         image: images.opencadc.org/platform/cavern:0.6.2
         imagePullPolicy: Always

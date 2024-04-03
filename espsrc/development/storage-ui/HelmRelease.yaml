@@ -15,7 +15,7 @@ spec:
       interval: 1m
   values:
     deployment:
-      hostname: spsrc25.iaa.csic.es 
+      hostname: dev.spsrc25.iaa.csic.es 
       storageUI:
         image: images.opencadc.org/client/storage-ui:1.1.0
         imagePullPolicy: Always
