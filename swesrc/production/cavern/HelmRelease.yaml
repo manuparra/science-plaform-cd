@@ -16,7 +16,7 @@ spec:
   values:
     # Skaha web service deployment
     deployment:
-      hostname: spsrc-jupyter.iaa.csic.es
+      hostname: k8s.swesrc.chalmers.se
       cavern:
         image: images.opencadc.org/platform/cavern:0.6.2
         imagePullPolicy: Always

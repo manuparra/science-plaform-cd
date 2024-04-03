@@ -23,7 +23,7 @@ spec:
  
     # POSIX Mapper web service deployment
     deployment:
-      hostname: spsrc-jupyter.iaa.csic.es    # Change this!
+      hostname: dev.k8s.swesrc.chalmers.se    # Change this!
       posixMapper:
         image: images.opencadc.org/platform/posix-mapper:0.2.1
         imagePullPolicy: IfNotPresent
