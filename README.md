@@ -19,7 +19,7 @@ flux bootstrap github \
   --owner=<you_github_user> \
   --repository=science-platform-cd \
   --branch=main \
-  --path=espSRC/production \
+  --path=espsrc/production \
   --personal
 ```
 
